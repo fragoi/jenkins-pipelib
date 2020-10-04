@@ -1,3 +1,3 @@
 # jenkins-pipelib
 
-Steps for the Jenkins Pipelines.
+Groovy steps for Jenkins build pipelines.
